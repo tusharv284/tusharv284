@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and Design
 - 🌱 I’m currently learning ML,AI
 - 💞️ I’m looking to collaborate on Web development Projects
-- 📫 How to reach me ...
+- 📫 How to reach me : vermatushar1999@gmail.com
 
 <!---
 tusharv284/tusharv284 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
